@@ -114,7 +114,7 @@ def create_bank_header():
 def create_bank_detail():
     global prt_curr_row, prt_bank_tot_row
     p_ws.cell(prt_curr_row,1).value="ICICI"
-    p_ws.cell(prt_curr_row,2).value="1420 0150 2829"
+    p_ws.cell(prt_curr_row,2).value="XXXXXXXXXX"
     p_ws.cell(prt_curr_row,3).value=0
     prt_bank_tot_row = prt_curr_row
     prt_curr_row += 1
