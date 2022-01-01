@@ -4,5 +4,5 @@ Python automation script to automate investment portfolio generation from ValueR
 - Download consolidated statement from VR
 - Convert the file to .xltx format
 - Change file name in script if needed
-- Run script using Python3
+- Run create_portfolio.py using Python3; can be run from PyCharm
 - portfolio.xlsx will be generated in same folder
